@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="kawhy-import" />
+        <module name="kawhy-consulta-cte" />
+        <module name="Kawhy-cte" />
+        <module name="kawhy-registra-eventos" />
+        <module name="kawhy-commons" />
+        <module name="kawhy-consulta-nfe" />
+        <module name="kawhy-update-sefaz-certificate" />
+        <module name="kawhy-manager-v6" />
+        <module name="kawhy-distribuicao-nfe" />
+        <module name="kawhy-cript-license" />
+        <module name="Kawhy-distribuicao-cte" />
+        <module name="kawhy-email" />
+        <module name="kawhy-nfse" />
+        <module name="kawhy-nfe" />
+        <module name="kawhy-api-sefaz" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="Kawhy-cte" options="-parameters" />
+      <module name="Kawhy-distribuicao-cte" options="-parameters" />
+      <module name="kawhy-api-sefaz" options="-parameters" />
+      <module name="kawhy-commons" options="-parameters" />
+      <module name="kawhy-consulta-cte" options="-parameters" />
+      <module name="kawhy-consulta-nfe" options="-parameters" />
+      <module name="kawhy-cript-license" options="-parameters" />
+      <module name="kawhy-distribuicao-nfe" options="-parameters" />
+      <module name="kawhy-email" options="-parameters" />
+      <module name="kawhy-import" options="-parameters" />
+      <module name="kawhy-manager-v6" options="-parameters" />
+      <module name="kawhy-nfe" options="-parameters" />
+      <module name="kawhy-nfse" options="-parameters" />
+      <module name="kawhy-registra-eventos" options="-parameters" />
+      <module name="kawhy-update-sefaz-certificate" options="-parameters" />
+    </option>
+  </component>
+</project>

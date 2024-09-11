@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-api-sefaz" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-consulta-cte" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-consulta-nfe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-cript-license" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-cte" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-distribuicao-cte" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-distribuicao-nfe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-email" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-import" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-manager-v6" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-nfe" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-nfse" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-registra-eventos" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../kawhy-update-sefaz-certificate" vcs="Git" />
+  </component>
+</project>

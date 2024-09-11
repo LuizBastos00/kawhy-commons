@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-api-sefaz/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-consulta-nfe/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-cript-license/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-cte/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-distribuicao-cte/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-distribuicao-nfe/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-email/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-import/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-manager-v6/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-nfe/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-nfse/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-registra-eventos/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-consulta-cte/pom.xml" />
+        <option value="$PROJECT_DIR$/../kawhy-update-sefaz-certificate/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_17" project-jdk-name="corretto-17" project-jdk-type="JavaSDK" />
+</project>
