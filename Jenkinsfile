@@ -39,14 +39,4 @@ pipeline {
             }
         }
     }
-
-    post {
-        always {
-            archiveArtifacts artifacts: '**/target/*.jar', allowEmptyArchive: true
-            junit '**/target/surefire-reports/*.xml'
-        }
-        failure {
-            echo 'Build, Test, or Deploy failed.'
-        }
-    }
 }
